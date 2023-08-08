@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    background: #1C2B35;
+}
+
+.header img {
+    width: auto;
+    height: auto;
+    margin: 19px 0px 21px 112px;
+}
+
+.pages a {
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 31px 32px 35px 0px;
+    text-decoration: none;
+    color: #ffffff;
+    transition: 0.3s;
+}
+
+.pages a:hover {
+    color: aquamarine;
+}
