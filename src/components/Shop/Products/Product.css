@@ -37,6 +37,7 @@
     border-radius: 0px 0px 8px 8px;
     background: #FFE0B3;
     transition: 0.4s;
+    bottom: 0;
 }
 .btn:hover{
     background-color: rgba(255, 166, 2, 0.758);
